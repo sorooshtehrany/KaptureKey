@@ -1,0 +1,57 @@
+[DebugChecksum]
+Checksum=-461023433
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\Source\LED.c}.73.2" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\STM8L Library\Include\stm8l15x_rtc.h}.12.1" 0 0 0 0 "" 0 ""
+Count=2
+[Aliases]
+A0=_ "E:\Projects\OfficeWork\Paintball\Capture of castle\Laser tag capture of castle\uSource\Source\audio.c" ""
+A1=_ "E:\Projects\OfficeWork\Paintball\Capture of castle\Laser tag capture of castle\uSource\Source\segment.c" ""
+A2=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\audio\Source\sdcard.c" ""
+A3=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\audio\Source\sdcard_fat.c" ""
+A4=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\audio\Source\sdcard_low.c" ""
+A5=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_adc.c" ""
+A6=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_clk.c" ""
+A7=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_dac.c" ""
+A8=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_dma.c" ""
+A9=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_flash.c" ""
+A10=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_gpio.c" ""
+A11=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_i2c.c" ""
+A12=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_it.c" ""
+A13=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_spi.c" ""
+A14=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_syscfg.c" ""
+A15=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_tim1.c" ""
+A16=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_tim3.c" ""
+A17=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\STM8L Library\Source\stm8l15x_usart.c" ""
+A18=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\Source\MRF24J40.c" ""
+A19=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\Source\delay.c" ""
+A20=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\Source\systemTick.c" ""
+A21=_ "E:\Projects\OfficeWork\Paintball\Laser tag capture of castle\uSource\Source\usart.c" ""
+Count=22
+SuppressDialog=1

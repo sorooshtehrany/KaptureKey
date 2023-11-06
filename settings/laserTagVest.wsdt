@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>laserTagVest/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>107</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <Debug-Log>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1307</ColumnWidth1>
+      </Debug-Log>
+      <TerminalIO/>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7956-15185</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>laserTagVest</ExpandedNode><ExpandedNode>laserTagVest/Include</ExpandedNode><ExpandedNode>laserTagVest/STM8L Library</ExpandedNode><ExpandedNode>laserTagVest/STM8L Library/Include</ExpandedNode><ExpandedNode>laserTagVest/Source</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17136-15217</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-3836-15671</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\MRF24J40.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>248</YPos2><SelStart2>10549</SelStart2><SelEnd2>10549</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\delay.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>702</SelStart2><SelEnd2>709</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>36</YPos2><SelStart2>1448</SelStart2><SelEnd2>1448</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\audio.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\battery.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>62</YPos2><SelStart2>3342</SelStart2><SelEnd2>3342</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\segment.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>167</YPos2><SelStart2>7513</SelStart2><SelEnd2>7526</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\sensor.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>97</YPos2><SelStart2>4414</SelStart2><SelEnd2>4414</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\sensor.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>18</YPos2><SelStart2>2005</SelStart2><SelEnd2>2005</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\systemTick.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>17</YPos2><SelStart2>1192</SelStart2><SelEnd2>1223</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\systemTick.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>424</SelStart2><SelEnd2>424</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\time.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>58</YPos2><SelStart2>3126</SelStart2><SelEnd2>3126</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\time.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>2</YPos2><SelStart2>895</SelStart2><SelEnd2>895</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\usart.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>92</YPos2><SelStart2>4223</SelStart2><SelEnd2>4223</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\vest.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>698</YPos2><SelStart2>30970</SelStart2><SelEnd2>30970</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\vest.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>100</YPos2><SelStart2>5570</SelStart2><SelEnd2>5570</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\vibre.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\MRF24J40.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>197</YPos2><SelStart2>7905</SelStart2><SelEnd2>7905</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\STM8L Library\Include\stm8l15x_usart.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>45</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\usart.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>428</SelStart2><SelEnd2>428</SelEnd2></Tab><ActiveTab>18</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\vibre.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\delay.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>447</SelStart2><SelEnd2>447</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\CaptureKey.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>258</SelStart2><SelEnd2>258</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\power.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>1020</SelStart2><SelEnd2>1020</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\power.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>487</SelStart2><SelEnd2>487</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\audio.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>1115</SelStart2><SelEnd2>1115</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\battery.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>416</SelStart2><SelEnd2>416</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\segment.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>9</YPos2><SelStart2>1237</SelStart2><SelEnd2>1237</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02c8fb48><key>iaridepm.enu1</key></Toolbar-02c8fb48></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>443</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>146413</sizeHorzCX><sizeHorzCY>291545</sizeHorzCY><sizeVertCX>146413</sizeVertCX><sizeVertCY>648688</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>200</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>291545</sizeHorzCY><sizeVertCX>146413</sizeVertCX><sizeVertCY>291545</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
